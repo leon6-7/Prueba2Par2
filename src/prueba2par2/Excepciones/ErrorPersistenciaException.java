@@ -8,6 +8,8 @@ package prueba2par2.Excepciones;
  *
  * @author Abril
  */
-public class ErrorPersistenciaException {
-    
+public class ErrorPersistenciaException extends Exception{
+     public ErrorPersistenciaException(String message){
+        super(message);
+    }
 }

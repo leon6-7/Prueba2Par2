@@ -3,6 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package prueba2par2.Persistencia;
+import prueba2par2.Excepciones.ErrorPersistenciaException;
 
 /**
  *
