@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="Group 20260625-08:27:41">
+            <file>file:/C:/Proyectos/Programacion2Q4/Prueba2Par2/src/prueba2par2/Prueba2Par2.java</file>
+            <file>file:/C:/Proyectos/Programacion2Q4/Prueba2Par2/src/prueba2par2/Modelo/Producto.java</file>
+            <file>file:/C:/Proyectos/Programacion2Q4/Prueba2Par2/src/prueba2par2/Modelo/Plato.java</file>
+            <file>file:/C:/Proyectos/Programacion2Q4/Prueba2Par2/src/prueba2par2/Modelo/Bebida.java</file>
+            <file>file:/C:/Proyectos/Programacion2Q4/Prueba2Par2/src/prueba2par2/Modelo/Postre.java</file>
+            <file>file:/C:/Proyectos/Programacion2Q4/Prueba2Par2/src/prueba2par2/Modelo/CategoriaProducto.java</file>
+            <file>file:/C:/Proyectos/Programacion2Q4/Prueba2Par2/src/prueba2par2/Modelo/Pedido.java</file>
+            <file>file:/C:/Proyectos/Programacion2Q4/Prueba2Par2/src/prueba2par2/Modelo/ModalidadServicio.java</file>
+            <file>file:/C:/Proyectos/Programacion2Q4/Prueba2Par2/src/prueba2par2/Modelo/EstadoPedido.java</file>
+            <file>file:/C:/Proyectos/Programacion2Q4/Prueba2Par2/src/prueba2par2/Modelo/DetallePedido.java</file>
+            <file>file:/C:/Proyectos/Programacion2Q4/Prueba2Par2/src/prueba2par2/Excepciones/CantidadInvalidaException.java</file>
+            <file>file:/C:/Proyectos/Programacion2Q4/Prueba2Par2/src/prueba2par2/Modelo/Catalogo.java</file>
+            <file>file:/C:/Proyectos/Programacion2Q4/Prueba2Par2/src/prueba2par2/Excepciones/CodigoDuplicadoException.java</file>
+            <file>file:/C:/Proyectos/Programacion2Q4/Prueba2Par2/src/prueba2par2/Excepciones/PedidoVacioException.java</file>
+            <file>file:/C:/Proyectos/Programacion2Q4/Prueba2Par2/src/prueba2par2/Control/GestionProductos.java</file>
+            <file>file:/C:/Proyectos/Programacion2Q4/Prueba2Par2/src/prueba2par2/Control/GestionPedidos.java</file>
+            <file>file:/C:/Proyectos/Programacion2Q4/Prueba2Par2/src/prueba2par2/Control/CalculadoraImporte.java</file>
+            <file>file:/C:/Proyectos/Programacion2Q4/Prueba2Par2/src/prueba2par2/Control/ControladorRestaurante.java</file>
+            <file>file:/C:/Proyectos/Programacion2Q4/Prueba2Par2/src/prueba2par2/Persistencia/AlmacenBinario.java</file>
+            <file>file:/C:/Proyectos/Programacion2Q4/Prueba2Par2/src/prueba2par2/Persistencia/ArchivoProductos.java</file>
+            <file>file:/C:/Proyectos/Programacion2Q4/Prueba2Par2/src/prueba2par2/Excepciones/ErrorPersistenciaException.java</file>
+            <file>file:/C:/Proyectos/Programacion2Q4/Prueba2Par2/src/prueba2par2/Persistencia/ArchivoPedidos.java</file>
+            <file>file:/C:/Proyectos/Programacion2Q4/Prueba2Par2/src/prueba2par2/Vista/PanelProductos.java</file>
+            <file>file:/C:/Proyectos/Programacion2Q4/Prueba2Par2/src/prueba2par2/Vista/PanelPedidos.java</file>
+            <file>file:/C:/Proyectos/Programacion2Q4/Prueba2Par2/src/prueba2par2/Vista/PanelConsultaPedidos.java</file>
+            <file>file:/C:/Proyectos/Programacion2Q4/Prueba2Par2/src/prueba2par2/Vista/PanelAlmacenamiento.java</file>
+            <file>file:/C:/Proyectos/Programacion2Q4/Prueba2Par2/src/prueba2par2/Vista/VistaRestaurante.java</file>
+            <file>file:/C:/Proyectos/Programacion2Q4/Prueba2Par2/src/prueba2par2/Vista/VentanaPrincipal.java</file>
+        </group>
+    </open-files>
+</project-private>

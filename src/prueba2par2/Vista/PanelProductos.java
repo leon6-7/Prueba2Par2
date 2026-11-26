@@ -231,26 +231,16 @@ public class PanelProductos extends JPanel {
 
     public void refrescarTabla() {
 
-        modelo.setRowCount(0);
+    modelo.setRowCount(0);
 
-        for (Producto producto : controlador.listarProductos()) {
+    for (Producto producto : controlador.listarProductos()) {
 
-            String tipo;
-
-            if (producto instanceof Plato) {
-                tipo = "PLATO";
-            } else if (producto instanceof Bebida) {
-                tipo = "BEBIDA";
-            } else {
-                tipo = "POSTRE";
-            }
-
-            modelo.addRow(new Object[]{
-                producto.getCodigo(),
-                producto.getNombre(),
-                String.format("L. %.2f", producto.getPrecio()),
-                tipo,
-                producto.toString()
+        modelo.addRow(new Object[]{
+            producto.getCodigo(),
+            producto.getNombre(),
+            String.format("L. %.2f", producto.getPrecio()),
+            producto.getCategoria(),
+            producto.getDetalleEspecifico()
             });
         }
     }
