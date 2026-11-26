@@ -4,13 +4,19 @@
  */
 package prueba2par2;
 
+import javax.swing.SwingUtilities;
+import prueba2par2.Vista.VentanaPrincipal;
+
 public class Prueba2Par2 {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        SwingUtilities.invokeLater(() -> {
+            VentanaPrincipal ventana = new VentanaPrincipal();
+            ventana.setVisible(true);
+        });
+        
     }
-    
 }

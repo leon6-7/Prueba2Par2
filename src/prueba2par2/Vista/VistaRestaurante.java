@@ -8,13 +8,9 @@ package prueba2par2.Vista;
  *
  * @author Abril
  */
-
 public interface VistaRestaurante {
 
     void mostrarMensaje(String mensaje);
 
-    void mostrarError(String mensaje);
-
     void refrescarTablas();
 }
-
